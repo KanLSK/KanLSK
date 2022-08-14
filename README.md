@@ -1,9 +1,6 @@
 
 - 👋 Hi, I’m Kan
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via twitter or discord
 
 **Programming Languages**
 <p>
