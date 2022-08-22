@@ -24,10 +24,7 @@ __Frameworks and Libraries__
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
-__Package Manager__
-<p>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-</p>
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kanlsk&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanlsk&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
