@@ -36,6 +36,7 @@ __Contact Me__
 [<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/KanLSK) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TKLSK1)
 
 __Hire Me__
+
 [<img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />](https://www.upwork.com/freelancers/~01e5dccf7a84567eed)
 
 <!---
