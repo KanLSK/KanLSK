@@ -1,6 +1,7 @@
 
 - 👋 Hi, I’m Kan
 - 👀 I’m interested in Web Development and Machine Learning
+- Currently I'm Working On Reddit Clone Project
 
 **Programming Languages**
 <p>
