@@ -1,7 +1,6 @@
 
-- 👋 Hi, I’m Kan
+- 👋 Hi, I’m Kantaphat
 - 👀 I’m interested in Web Development and Machine Learning
-- Currently I'm Working On Reddit Clone Project
 
 **Programming Languages**
 <p>
